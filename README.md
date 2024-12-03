@@ -2,7 +2,7 @@
 In this project I created Powerbi dashboard on Booking.com Hotel Bookings data provided by AlmaBetter. In this I tried to find helpful insights for positive business growth
 # Air-BnB-Powerbi_dashboard
 In this project I created Powerbi dashboard on Air BnB Hotel Bookings data provided by AlmaBetter. In this I tried to find helpful insights for positive business growth
-![Dasboard]()
+![Dasboard](https://github.com/Vishalpande0909/Booking.com-Powerbi_dashboard/blob/main/booking.com_dashboard.PNG?raw=true)
 # Hotel_Bookings-EDA
 ## Introduction:
 This README file provides an overview of the exploratory data analysis (EDA) project on hotel bookings. The project aims to analyze and gain insights from a dataset containing information about hotel bookings, including various attributes related to bookings, customer demographics, and booking patterns.
